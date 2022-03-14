@@ -1,0 +1,8 @@
+git clone url
+git remote -v
+
+git push 
+
+git pull
+
+git checkout -b S-123
